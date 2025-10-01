@@ -44,7 +44,7 @@ export default function Page() {
           <Reveal delay={0.05}>
             <h1 className="mt-5 text-5xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl">
               STOP GUESSING, <br className="hidden sm:inline" />
-              START EXECUTING with <span className="bg-gradient-to-r from-cyan-400 to-indigo-400 bg-clip-text text-transparent">Profit First</span> AI
+              START EXECUTING (placeholder) with <span className="bg-gradient-to-r from-cyan-400 to-indigo-400 bg-clip-text text-transparent">Profit First</span> AI
             </h1>
           </Reveal>
           <Reveal delay={0.1}>
