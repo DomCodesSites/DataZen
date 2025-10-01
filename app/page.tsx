@@ -1,3 +1,5 @@
+'use client';
+
 import FloatingBits from "../components/FloatingBits";
 import Spotlight from "../components/Spotlight";
 import ScrollProgress from "../components/ScrollProgress";
