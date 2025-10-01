@@ -3,12 +3,12 @@ export const metadata = {
   description: "Profit first analytics and action",
 };
 
+import "./globals.css";
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body style={{ background: "#0a0a0a", color: "white", margin: 0 }}>
-        {children}
-      </body>
+      <body className="bg-neutral-950 text-neutral-100">{children}</body>
     </html>
   );
 }
