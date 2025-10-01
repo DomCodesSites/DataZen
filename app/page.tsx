@@ -1,9 +1,9 @@
-import FloatingBits from "@/components/FloatingBits";
-import Spotlight from "@/components/Spotlight";
-import ScrollProgress from "@/components/ScrollProgress";
-import { Reveal } from "@/components/Reveal";
-import TiltCard from "@/components/TiltCard";
-import CountUp from "@/components/CountUp";
+import FloatingBits from "../components/FloatingBits";
+import Spotlight from "../components/Spotlight";
+import ScrollProgress from "../components/ScrollProgress";
+import { Reveal } from "../components/Reveal";
+import TiltCard from "../components/TiltCard";
+import CountUp from "../components/CountUp";
 
 export default function Page() {
   const pillars = [
